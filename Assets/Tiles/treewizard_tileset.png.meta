@@ -83,6 +83,30 @@ TextureImporter:
   - first:
       213: -8513781570940122521
     second: treewizard_tileset_26
+  - first:
+      213: -4709887936691725669
+    second: treewizard_tileset_27
+  - first:
+      213: -2194116871414734431
+    second: treewizard_tileset_28
+  - first:
+      213: -7964742800508867408
+    second: treewizard_tileset_29
+  - first:
+      213: 8762732542451495017
+    second: treewizard_tileset_30
+  - first:
+      213: 5215961982889367540
+    second: treewizard_tileset_31
+  - first:
+      213: -2289240729599333340
+    second: treewizard_tileset_32
+  - first:
+      213: -8851721528462328963
+    second: treewizard_tileset_33
+  - first:
+      213: -4263047105663370625
+    second: treewizard_tileset_34
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -691,7 +715,7 @@ TextureImporter:
       name: treewizard_tileset_24
       rect:
         serializedVersion: 2
-        x: 32
+        x: 0
         y: 80
         width: 16
         height: 16
@@ -712,7 +736,7 @@ TextureImporter:
       name: treewizard_tileset_25
       rect:
         serializedVersion: 2
-        x: 48
+        x: 16
         y: 80
         width: 16
         height: 16
@@ -733,7 +757,7 @@ TextureImporter:
       name: treewizard_tileset_26
       rect:
         serializedVersion: 2
-        x: 64
+        x: 32
         y: 80
         width: 16
         height: 16
@@ -746,6 +770,174 @@ TextureImporter:
       bones: []
       spriteID: 76ac8d8e4c8f8d980800000000000000
       internalID: -8513781570940122521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treewizard_tileset_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a979920ed13aeb0800000000000000
+      internalID: -4709887936691725669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treewizard_tileset_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a122a3945eec81e0800000000000000
+      internalID: -2194116871414734431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treewizard_tileset_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bca1583f9c877190800000000000000
+      internalID: -7964742800508867408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treewizard_tileset_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960b39602da7b9970800000000000000
+      internalID: 8762732542451495017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treewizard_tileset_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f71010c9c1d26840800000000000000
+      internalID: 5215961982889367540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treewizard_tileset_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c20e27fabfa30e0800000000000000
+      internalID: -2289240729599333340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treewizard_tileset_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b33551b2e582580800000000000000
+      internalID: -8851721528462328963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treewizard_tileset_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a7d267e3d96d4c0800000000000000
+      internalID: -4263047105663370625
       vertices: []
       indices: 
       edges: []
