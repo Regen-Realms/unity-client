@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75e1b168f17d4b08a967e3c894c82e59, type: 3}
   m_Name: Stone
   m_EditorClassIdentifier: 
-  name: Stone
+  itemName: Stone
   sprite: {fileID: -6132604951895993180, guid: 9fa1f9ce526137846bdacaeb3735090d, type: 3}
   quantity: 1
   harvestActionsRequired: 5

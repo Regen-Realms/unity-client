@@ -1,0 +1,26 @@
+.InventoryBarStyle {
+    height: 100%;
+}
+
+.InventorySlotStyle {
+    margin: 5px;
+    width: 120px;
+    height: 90px;
+    background-image: url('/Assets/Sprites/tilewizard_ui_inventory_bar.png');
+}
+
+.inventoryContainer {
+    align-items: center;
+    justify-content: flex-end;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.InventorySlotIcon {
+    padding: 15px;
+    flex-shrink: 0;
+    flex-grow: 1;
+}

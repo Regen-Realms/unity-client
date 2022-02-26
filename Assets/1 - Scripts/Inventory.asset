@@ -9,10 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 75e1b168f17d4b08a967e3c894c82e59, type: 3}
-  m_Name: Wood
+  m_Script: {fileID: 11500000, guid: 020caabb10334dedaaa7658e4eab3f40, type: 3}
+  m_Name: Inventory
   m_EditorClassIdentifier: 
-  itemName: Wood
-  sprite: {fileID: -8513781570940122521, guid: 9fa1f9ce526137846bdacaeb3735090d, type: 3}
-  quantity: 1
-  harvestActionsRequired: 3
+  Items:
+  - name: 

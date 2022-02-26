@@ -1,0 +1,3 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="InventorySlot" style="background-image: url(&apos;/Assets/Sprites/tilewizard_ui_inventory_bar.png&apos;); position: absolute; left: 0; top: 0; right: 0; bottom: 0;" />
+</ui:UXML>
